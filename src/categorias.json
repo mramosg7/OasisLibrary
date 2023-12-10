@@ -1,0 +1,28 @@
+{
+    "populares": [
+      {"nombre": "Ficción", "value": "fiction"},
+      {"nombre": "No ficción", "value": "nonfiction"},
+      {"nombre": "Ciencia", "value": "science"},
+      {"nombre": "Historia", "value": "history"},
+      {"nombre": "Misterio", "value": "mystery"},
+      {"nombre": "Fantasía", "value": "fantasy"},
+      {"nombre": "Biografía", "value": "biography"},
+      {"nombre": "Ciencia ficción", "value": "sciencefiction"},
+      {"nombre": "Romance", "value": "romance"},
+      {"nombre": "Autoayuda", "value": "selfhelp"}
+    ],
+      "ficción": [
+        {"nombre": "Novelas", "value": "novels"},
+        {"nombre": "Cuentos", "value": "shortstories"},
+        {"nombre": "Poesía", "value": "poetry"},
+        {"nombre": "Drama", "value": "drama"},
+        {"nombre": "Aventura", "value": "adventure"}
+      ],
+      "no_ficción": [
+        {"nombre": "Ensayos", "value": "essays"},
+        {"nombre": "Historia real", "value": "truestory"},
+        {"nombre": "Ciencia real", "value": "realscience"},
+        {"nombre": "Biografías reales", "value": "realbiographies"}
+      ]
+    
+  }
