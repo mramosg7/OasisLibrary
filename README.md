@@ -42,7 +42,7 @@ Permite buscar libros por título, autor o categoría.
 Haz clic en un libro para ver detalles adicionales.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-800080?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-800080?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marioramosgarcia.es)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-ramos-garc%C3%ADa-b457aa2a4/)ç)
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mramosg7)
 
